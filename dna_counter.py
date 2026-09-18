@@ -1,4 +1,4 @@
-dna = input("ATTGCGAATGCGATT:").upper()
+dna = input("Enter a DNA sequence:").upper()
 
 print("A:",dna.count("A"))
 print("T:",dna.count("T"))
